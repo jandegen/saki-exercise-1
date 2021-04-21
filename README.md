@@ -1,4 +1,4 @@
 # Software-Awendungen mit KI
 
-## Exercise 2 - Transaction Classification
+## Exercise 1 - Transaction Classification
 
